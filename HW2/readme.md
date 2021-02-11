@@ -1,0 +1,6 @@
+![1](https://github.com/drinkertea/MLHW/blob/master/HW6/1.jpg)
+![2](https://github.com/drinkertea/MLHW/blob/master/HW6/2.jpg)
+![3](https://github.com/drinkertea/MLHW/blob/master/HW6/3.jpg)
+![4](https://github.com/drinkertea/MLHW/blob/master/HW6/4.jpg)
+![5](https://github.com/drinkertea/MLHW/blob/master/HW6/5.jpg)
+![6](https://github.com/drinkertea/MLHW/blob/master/HW6/6.jpg)
